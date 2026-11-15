@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center" font="JetBrains">Hewwow~ Imma a eepy dinosaur - Bella!!!</h1>
-<hr style="border: 1px solid #C9D1D9; width: 100%; margin: 20px auto;" />
+
 <h3 align="center">Business & Operations | Creative & Digital</h3>
 
 <p align="center">
@@ -11,7 +11,7 @@
 </p>
 
 <h2 align="center">🦖 About Me</h2>
-<hr style="border: 1px solid #C9D1D9; width: 100%; margin: 20px auto;" />
+
 <img align="right" src="a-dino.png" width="280" alt="Cute dinosaur in soft grey hat playing jazz" />
 
 So here's a little about me! I'm a Management graduate with a curious mind, an eye for details, and a soft spot for creativity.
